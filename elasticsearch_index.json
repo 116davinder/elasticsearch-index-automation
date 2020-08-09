@@ -1,0 +1,12 @@
+{
+  "es_indexes": [
+    {
+      "index_name": "index-1",
+      "shards": 5,
+      "replicas": 2
+    },
+    {
+      "index_name": "index-2"
+    }
+  ]
+}
